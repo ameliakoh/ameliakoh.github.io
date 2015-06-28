@@ -238,5 +238,6 @@ footer {
     padding: 100px 0;
 }
 
-
-/*formspree*/
+#about, .call-to-action {
+    background-color: #90CAF9;
+}
