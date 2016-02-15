@@ -1,0 +1,71 @@
+<div class="row">
+                            <div class="col-md-6">
+                                <b>Classic Vanilla</b><br>
+                                Vanilla cupcake frosted with a vanilla swiss meringue buttercream<br>
+                                *Colour of frosting can be customised, e.g. sky blue, two toned<br><br>
+                            </div>
+                            <div class="col-md-6">
+                                <b>Vanilla Confetti</b><br>
+                                Vanilla confetti cupcake frosted with a vanilla swiss meringue buttercream sprinkled with rainbow sprinkles<br><br>
+                            </div>
+                            <div class="col-md-6">
+                                <b>Oreo Choco</b><br>
+                                Oreo studded chocolate cupcake frosted with a Cookies &amp; Cream swiss meringue buttercream and topped with a mini Oreo cookie<br><br>
+                            </div>
+                            <div class="col-md-6">
+                                <b>Double Chocolate</b><br>
+                                Chocolate cupcake frosted with a dark chocolate swiss meringue buttercream.<br><br>
+                            </div>
+                            <div class="col-md-6">
+                                <b>Matcha White Choco</b><br>
+                                Green tea cupcake frosted with white chocolate swiss meringue buttercream, drizzled with matcha white chocolate and topped with a matcha KitKat<br><br>
+                            </div>
+                            <div class="col-md-6">
+                                <b>Double Matcha</b><br>
+                                Green tea cupcake frosted with green tea swiss meringue buttercream, drizzled with matcha white chocolate and topped with a matcha KitKat<br><br>
+                            </div>
+                            <div class="col-md-6">
+                                <b><font color="#FF4856">*New* </font>Chocolate Matcha</b><br>
+                                Chocolate cupcake frosted with green tea swiss meringue buttercream, drizzled with matcha white chocolate and topped with a matcha KitKat<br><br>
+                            </div>
+                            <div class="col-md-6">
+                                <b>Biscoff Speculoos</b><br>
+                                Biscoff cupcake frosted with biscoff swiss meringue buttercream and a Biscoff cookie on top<br><br>
+                            </div>
+                            <div class="col-md-6">
+                                <b><font color="#FF4856">*New* </font>Chocolate Speculoos</b><br>
+                                Chocolate cupcake frosted with biscoff swiss meringue buttercream and topped with a Biscoff cookie<br><br>
+                            </div>
+                            <div class="col-md-6">
+                                <b>Chocolate Orange</b><br>
+                                Chocolate cupcake frosted with an orange swiss meringue buttercream and topped with chocolate shavings<br><br>
+                            </div>
+                            <div class="col-md-6">
+                                <b>Lemon Rose</b><br>
+                                Lemon cupcake frosted with rosewater swiss meringue buttercream and a topped with strawberry slice<br><br>
+                            </div>
+                            <div class="col-md-6">
+                                <b>Lemon Lavender</b><br>
+                                Lemon cupcake frosted with two-toned lavender swiss meringue buttercream and topped with dried lavender buds<br><br>
+                            </div>
+                            <div class="col-md-6">
+                                <b>Earl Grey Lavender</b><br>
+                                Earl grey cupcake filled with earl grey filling, frosted with two-toned lavender swiss meringue buttercream and topped with dried lavender buds<br><br>
+                            </div>
+                            <div class="col-md-6">
+                                <b>Blueberry Lime</b><br>
+                                Vanilla cupcake filled with fresh blueberry puree, frosted with lime swiss meringue buttercream and topped with fresh blueberries<br><br>
+                            </div>
+                            <div class="col-md-6">
+                                <b><font color="#FF4856">*New* </font>Blueberry White Chocolate</b><br>
+                                Vanilla cupcake filled with fresh blueberry puree, frosted with white chocolate swiss meringue buttercream and topped with fresh blueberries<br><br>
+                            </div>
+                            <div class="col-md-6">
+                                <b><font color="#FF4856">*New* </font>Peanut Butter</b><br>
+                                Peanut butter cupcake frosted with peanut butter swiss meringue buttercream and topped with crushed reeses<br><br>
+                            </div>
+                            <div class="col-md-6">
+                                <b>Nutella Marshmallow</b><br>
+                                Nutella filled marshmallow chocolate cupcake with a Nutella swiss meringue buttercream and topped with mini marshmallows<br>
+                            </div>
+                        </div>
