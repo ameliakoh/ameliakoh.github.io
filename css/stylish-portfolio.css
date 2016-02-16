@@ -172,15 +172,15 @@ hr.small {
 }
 */
 
-/* About */
+/* Featured Products */
 
-.about {
+.fproducts {
     padding: 50px 0;
 }
 
 /* Services */
 
-.services {
+.services, .howtoorder {
     padding: 50px 0;
 }
 
@@ -202,7 +202,7 @@ hr.small {
     -o-background-size: cover;
 }
 
-.footer {
+.footer, .fproducts {
     color: #fff;
     background-color: #f04c59;
 }
@@ -257,7 +257,7 @@ footer {
 }
 */
 
-#about, .call-to-action {
+.call-to-action {
     background-color: #fff;
 }
 
